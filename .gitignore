@@ -1,0 +1,10 @@
+# Ignore sensitive keys
+keys/
+
+# Ignore Terraform state files
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform/
+
+# Ignore any node_modules if present
+app/node_modules/
