@@ -115,10 +115,7 @@ CONTAINER ID   IMAGE                          STATUS   PORTS
 abc123         <dockerhub_username>/node-app Up       0.0.0.0:3000->3000/tcp
 
 
-
-6️⃣ Screenshots
-
-Place your screenshots in screenshots/ folder and reference them here:
+## 6️⃣ Screenshots
 
 ### Node.js App in Browser
 ![App Running](./screenshots/app_running.png)
