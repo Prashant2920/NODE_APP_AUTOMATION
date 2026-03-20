@@ -121,13 +121,13 @@ abc123         <dockerhub_username>/node-app Up       0.0.0.0:3000->3000/tcp
 Place your screenshots in screenshots/ folder and reference them here:
 
 ### Node.js App in Browser
-![App Running](screenshots/app_running.png)
+![App Running](./screenshots/app_running.png)
 
 ### Docker Containers Running
-![Docker PS](screenshots/docker_ps.png)
+![Docker PS](./screenshots/docker_ps.png)
 
 ### Ansible Playbook Output
-![Ansible Success](screenshots/ansible_success.png)
+![Ansible Success](./screenshots/ansible_success.png)
 
 
 
