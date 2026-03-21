@@ -50,7 +50,7 @@ node_app/
 
 
 Setup & Execution Steps
-1rProvision nfrastructure with Terraform
+1️⃣ Provision Infrastructure with Terraform
 
 cd terraform
 terraform init
