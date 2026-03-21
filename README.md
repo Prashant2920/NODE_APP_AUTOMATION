@@ -47,7 +47,7 @@ node_app/
 ├── screenshots/                 # Folder for screenshots
 ├── .gitignore
 └── README.md
-
+---
 
 Setup & Execution Steps
 1️⃣ Provision Infrastructure with Terraform
