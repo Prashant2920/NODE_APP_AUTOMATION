@@ -118,13 +118,14 @@ abc123         <dockerhub_username>/node-app Up       0.0.0.0:3000->3000/tcp
 ## 6️⃣ Screenshots
 
 ### Node.js App in Browser
-![App Running](screenshots/app_running.png)
+![App Running](https://raw.githubusercontent.com/Prashant2920/NODE_APP_AUTOMATION/main/screenshots/app_running.png)
 
 ### Docker Containers Running
-![Docker PS](screenshots/docker_ps.png)
+![Docker PS](https://raw.githubusercontent.com/Prashant2920/NODE_APP_AUTOMATION/main/screenshots/docker_ps.png)
 
 ### Ansible Playbook Output
-![Ansible Success](screenshots/ansible_success.png)
+![Ansible Success](https://raw.githubusercontent.com/Prashant2920/NODE_APP_AUTOMATION/main/screenshots/ansible_success.png)
+
 
 
 
