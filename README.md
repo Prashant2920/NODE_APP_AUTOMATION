@@ -50,7 +50,7 @@ node_app/
 
 
 Setup & Execution Steps
-1️ rovision nfrastructure with Terraform
+1rProvision nfrastructure with Terraform
 
 cd terraform
 terraform init
