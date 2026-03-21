@@ -50,11 +50,15 @@ node_app/
 ```
 
 Setup & Execution Steps
+
 1️⃣ Provision Infrastructure with Terraform
 
 cd terraform
+
 terraform init
+
 terraform apply
+
 
 Creates EC2 instance with public IP.
 
@@ -65,11 +69,13 @@ Creates EC2 instance with public IP.
 Ensure terraform_inventory.ini has correct key path:
 
 [node_server]
+
 <EC2_PUBLIC_IP> ansible_user=ubuntu ansible_ssh_private_key_file=../keys/Docker-key.pem
 
 Run the playbook:
 
 cd ../ansible
+
 ansible-playbook -i terraform_inventory.ini deploy_node.yml
 
 Installs Docker, pulls Node.js Docker image, and starts the container.
